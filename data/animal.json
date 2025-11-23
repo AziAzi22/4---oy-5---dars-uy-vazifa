@@ -1,3 +1,14 @@
 [
-    
+    {
+        "id": "4e3eb463-4c58-45ed-925e-4e142a83de7c",
+        "name": "Piton",
+        "type": "Reptile",
+        "habitat": "South Asia, Australia, Africa"
+    },
+    {
+        "id": "cbfa9789-29bd-40d1-bfcc-ed5cb3c15031",
+        "name": "Elephant",
+        "type": "mammals",
+        "habitat": "Afrika, South Asia"
+    }
 ]
