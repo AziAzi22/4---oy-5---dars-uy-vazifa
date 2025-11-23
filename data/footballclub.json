@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "id": "389b6227-9f4b-4d88-9cbe-7f99a7ab0de4",
+        "name": "Arsenal",
+        "stadium": "Emirates",
+        "country": "England"
+    },
+    {
+        "id": "6bcf429d-fc94-447c-8f70-459b4cfb4e43",
+        "name": "Borussia Dortmund",
+        "stadium": "Signal Iduna Park",
+        "country": "Deutschland"
+    }
+]

@@ -1,3 +1,14 @@
 [
-    
+    {
+        "id": "ca123c75-b65c-48a6-a401-8e315e397af6",
+        "name": "Pizza",
+        "type": "Fast Food",
+        "country": "Italy"
+    },
+    {
+        "id": "c4519353-88c5-4882-b7c0-b11fb0e00130",
+        "name": "Hot Dog",
+        "type": "Fast Food",
+        "country": "USA"
+    }
 ]

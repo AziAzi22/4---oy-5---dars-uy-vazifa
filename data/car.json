@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "id": "8066502a-41fc-43f0-ac5c-0fb1071dc741",
+        "name": "Tesla",
+        "type": "Electric",
+        "made_in": "USA"
+    },
+    {
+        "id": "e4ffb994-4ac0-477b-8143-9722bcba4a00",
+        "name": "BYD",
+        "type": "Electric",
+        "made_in": "Asia"
+    }
+]

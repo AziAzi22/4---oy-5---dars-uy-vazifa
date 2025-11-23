@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "id": "523f0a7c-5eea-410c-9f0f-d2f96ba9a776",
+        "name": "Mit Joe Black",
+        "release": "1998",
+        "country": "USA"
+    },
+    {
+        "id": "86589b9c-2bd0-4550-b5b0-f9f2115dfa5c",
+        "name": "Fight Club",
+        "release": "1999",
+        "country": "USA"
+    }
+]

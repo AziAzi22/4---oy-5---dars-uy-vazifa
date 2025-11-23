@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "id": "8a3ebb25-effc-4a23-a682-ba5623554e95",
+        "name": "CS GO",
+        "release": "2012",
+        "country": "Czechoslovakia"
+    },
+    {
+        "id": "8851fa10-3fb4-494e-b4ba-dce0107dd1d0",
+        "name": "Clash of Clans",
+        "release": "2011",
+        "country": "Finland"
+    }
+]

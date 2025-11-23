@@ -560,13 +560,12 @@ const app = http.createServer((req, res) => {
       req.on("data", (chunk) => {
         const data = JSON.parse(chunk);
         const dataFile = read_file("game.json");
-        const { name, release, type } = data;
-
+        const { name, release, country } = data;
         dataFile.push({
           id: uuid.v4(),
           name,
           release,
-          type,
+          country
         });
         write_file("game.json", dataFile);
         res.writeHead(201, option);

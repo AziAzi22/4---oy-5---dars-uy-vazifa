@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "id": "b49cf640-5a01-461e-bf50-8b4a387633e2",
+        "name": "Banana",
+        "color": "Yellow",
+        "country": "Australia, Asia"
+    },
+    {
+        "id": "a176b474-46f0-4b64-b204-284046eea43e",
+        "name": "Apple",
+        "color": "green",
+        "country": "Asia"
+    }
+]
