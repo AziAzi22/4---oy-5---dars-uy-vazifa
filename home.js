@@ -43,4 +43,32 @@
 
 // 2 - masala
 
+// Complete the method which accepts an array of integers, and returns one of the following:
+
+// "yes, ascending" - if the numbers in the array are sorted in an ascending order
+// "yes, descending" - if the numbers in the array are sorted in a descending order
+// "no" - otherwise
+// The order does not have to be strict: a sorted array can contain consecutive duplicates, e.g. [1, 1, 2, 3] is sorted in ascending order.
+
+// It is guaranteed that there will always be a unique valid answer. More precisely:
+
+// there will be no arrays with less than 2 elements
+// there will be no arrays where all elements are equal
+
+
+function isSortedAndHow(array) {
+  let osish = true
+  let kamayish = true
+  for(let i = 0; i < array.length - 1; i++){
+    if(array[i] < array[i+1]) kamayish = false
+     if(array[i] > array[i+1]) osish = false
+  }
+  if(kamayish) return 'yes, descending'
+  if(osish) return 'yes, ascending'
+  return 'no'
+}
+console.log(isSortedAndHow([1, 3, 8, 4]));
+console.log(isSortedAndHow([1, 2, 3, 4]));
+console.log(isSortedAndHow([4, 3, 2, 1]));
+
 
